@@ -5,7 +5,7 @@ This repository collects reusable Codex skills.
 ## Included Skills
 
 - `skills/standard-gongwen`: Draft, format, review, and verify Chinese official-document DOCX files using standard 公文 layout rules.
-
+- `技术论证报告` Use --profile project-report for technical justification reports and similar procurement project reports with a cover page, report body, market/risk tables, and a signature page.
 ## Repository Layout
 
 ```text
