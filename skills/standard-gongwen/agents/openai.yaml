@@ -1,0 +1,4 @@
+interface:
+  display_name: "标准公文"
+  short_description: "用于按标准公文版式生成、校对、修正文档和检查细节规范"
+  default_prompt: "Use $standard-gongwen to format this document as a standard Chinese official document."
